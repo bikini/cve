@@ -7,7 +7,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-// Original authors: github.com/catgirlasn
+// Original authors: github.com/bikini
 
 #define ARRAY_SIZE(a) (sizeof(a) / sizeof(a[0]))
 
